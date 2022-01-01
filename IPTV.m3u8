@@ -1,0 +1,32 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true
+#EXTINF:-1 tvg-chno="151" tvg-logo="http://192.168.1.104/picon/1_0_1_97_65_53_CE40000_0_0_0.png" tvg-id="1:0:1:97:65:53:CE40000:0:0:0:" tvg-name="RTP 1 HD",RTP 1 HD
+#EXTVLCOPT:program=151
+http://192.168.1.104:8001/1:0:1:97:65:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="152" tvg-logo="http://192.168.1.104/picon/1_0_1_98_65_53_CE40000_0_0_0.png" tvg-id="1:0:1:98:65:53:CE40000:0:0:0:" tvg-name="RTP 2 HD",RTP 2 HD
+#EXTVLCOPT:program=152
+http://192.168.1.104:8001/1:0:1:98:65:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="153" tvg-logo="http://192.168.1.104/picon/1_0_1_99_65_53_CE40000_0_0_0.png" tvg-id="1:0:1:99:65:53:CE40000:0:0:0:" tvg-name="SIC HD",SIC HD
+#EXTVLCOPT:program=153
+http://192.168.1.104:8001/1:0:1:99:65:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="154" tvg-logo="http://192.168.1.104/picon/1_0_1_9A_65_53_CE40000_0_0_0.png" tvg-id="1:0:1:9A:65:53:CE40000:0:0:0:" tvg-name="TVI HD",TVI HD
+#EXTVLCOPT:program=154
+http://192.168.1.104:8001/1:0:1:9A:65:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="451" tvg-logo="http://192.168.1.104/picon/1_0_1_1C3_68_53_CE40000_0_0_0.png" tvg-id="1:0:1:1C3:68:53:CE40000:0:0:0:" tvg-name="Sport TV 1 HD",Sport TV 1 HD
+#EXTVLCOPT:program=451
+http://192.168.1.104:8001/1:0:1:1C3:68:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="452" tvg-logo="http://192.168.1.104/picon/1_0_1_1C4_68_53_CE40000_0_0_0.png" tvg-id="1:0:1:1C4:68:53:CE40000:0:0:0:" tvg-name="Sport TV 2 HD",Sport TV 2 HD
+#EXTVLCOPT:program=452
+http://192.168.1.104:8001/1:0:1:1C4:68:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="453" tvg-logo="http://192.168.1.104/picon/1_0_1_1C5_68_53_CE40000_0_0_0.png" tvg-id="1:0:1:1C5:68:53:CE40000:0:0:0:" tvg-name="Sport TV 3 HD",Sport TV 3 HD
+#EXTVLCOPT:program=453
+http://192.168.1.104:8001/1:0:1:1C5:68:53:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="309" tvg-logo="http://192.168.1.104/picon/1_0_1_135_26_36_CE40000_0_0_0.png" tvg-id="1:0:1:135:26:36:CE40000:0:0:0:" tvg-name="Sport TV 4 HD",Sport TV 4 HD
+#EXTVLCOPT:program=309
+http://192.168.1.104:8001/1:0:1:135:26:36:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="3801" tvg-logo="http://192.168.1.104/picon/1_0_1_ED9_26_36_CE40000_0_0_0.png" tvg-id="1:0:1:ED9:26:36:CE40000:0:0:0:" tvg-name="Sport TV 5 HD",Sport TV 5 HD
+#EXTVLCOPT:program=3801
+http://192.168.1.104:8001/1:0:1:ED9:26:36:CE40000:0:0:0:
+#EXTINF:-1 tvg-chno="3803" tvg-logo="http://192.168.1.104/picon/1_0_1_EDB_26_36_CE40000_0_0_0.png" tvg-id="1:0:1:EDB:26:36:CE40000:0:0:0:" tvg-name="Sport TV 6 HD",Sport TV 6 HD
+#EXTVLCOPT:program=3803
+http://192.168.1.104:8001/1:0:1:EDB:26:36:CE40000:0:0:0:
